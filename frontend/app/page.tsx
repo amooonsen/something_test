@@ -1,5 +1,5 @@
-import { ResponsiveTestPage } from "@/components/responsive-test-page"
+import { LandingPage } from "@/components/landing-page"
 
 export default function Page() {
-  return <ResponsiveTestPage />
+  return <LandingPage />
 }
